@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- [Yotube channel](https://youtube.com/landee)
+- [Youtube channel](https://youtube.com/landee)
 
 - [Discord server](https://discord.gg/GGyRPye)
 
