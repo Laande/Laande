@@ -5,9 +5,9 @@
 ----------
   
 <p align="center">
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' href="https://www.youtube.com/landee" width="50" height="50">
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' href="https://discord.gg/GGyRPye" width="50" height="50">
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' href="https://twitter.com/landee_" width="50" height="50">
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' href="https://www.youtube.com/landee" width="100" height="100">
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' href="https://discord.gg/GGyRPye" width="100" height="100">
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' href="https://twitter.com/landee_" width="100" height="100">
 </p>
 
 ----------
