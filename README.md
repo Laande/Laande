@@ -1,4 +1,4 @@
-<div style="text-align: center">
+<p align="center">
   
   ![Lande](https://i.imgur.com/1Y9hOem.gif)
 
@@ -10,6 +10,4 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laande)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
-
-<div style="text-align: center">test</div>
+</p>
