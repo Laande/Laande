@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://youtube.com/landee" target="_blank"><img src='assets/youtube.png'></a>
   <a href="https://discord.gg/GGyRPye" target="_blank"><img src='assets/discord.png'></a>
-  <a href="https://twitter.com/lande_int" target="_blank"><img src='assets/twitter.png'></a>
 </p>
 
 ----------
